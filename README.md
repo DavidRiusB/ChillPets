@@ -1,5 +1,3 @@
-Sure! Here’s a more fun and lively README with plenty of emojis to make it both informative and cute:
-
 ---
 
 # 🐾 Chill Pets E-Commerce Backend 🛒
